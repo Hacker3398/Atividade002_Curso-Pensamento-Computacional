@@ -9,7 +9,6 @@ try {
 
     /* videos */
     const video_fallen_order_1 = document.getElementById('video-fallen-order-1');
-    const video_fallen_order_2 = document.getElementById('video-fallen-order-2');
     const video_lightsaber = document.getElementById('video-lightsaber');
 
     
